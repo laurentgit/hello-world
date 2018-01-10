@@ -1,0 +1,13 @@
+Xterm*locale: true
+XTerm.termName: xterm-256color
+XTerm.vt100.locale: true
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
+XTerm.vt100.savelines: 4096
+XTerm.vt100.scrollBar: true
+XTerm.vt100.scrollBar.width: 8
+XTerm.vt100.reverseVideo: true
+XTerm.vt100.faceName: Liberation Mono:size=10:antialias=false
+XTerm.vt100.font: 7x13
+
+
